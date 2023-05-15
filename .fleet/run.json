@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "command",
+            "name": "Debug Build",
+            "program": "/usr/bin/make",
+            "args": ["debugRun"],
+        },
+        
+    ]
+}
